@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Cisneros Gavin</h1>
-<h3 align="center">I am currently studying to work as a Full Stack Developer, learning Javascript and React on the front end and Node and PHP on the back end. I am a proactive person who loves to learn new things and keep improving my skills.</h3>
+<h3 align="center">I am currently studying to work as a Full Stack Developer, learning Javascript and React on the front end and Node on the back end. I am a proactive person who loves to learn new things and keep improving my skills.</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Node, PHP.**
 
