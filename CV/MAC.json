@@ -1,0 +1,328 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Cisneros Gavin",
+      "title": "Front-end developer",
+      "description": "Después de adquirir experiencia en otros sectores, he cambiado mi vida profesional para dedicarme al mundo del desarrollo web y actualmente estoy estudiando para trabajar como Full Stack Developer. He aprendido JavaScript y React en el front-end y Node en el back-end, sigo ampliando y mejorando mis conocimientos en tecnologías como HTML, CSS, Parallax, Bootstrap en diseño, Jest, Jasmine y Mocha en cuanto al testing, y Node.js, MongoDB y mongoose para la parte del back-end. Cada día descubro nuevas tecnologías y me siento entusiasmado y con ganas de seguir adquiriendo nuevos conocimientos. Soy una persona proactiva a la que se le ha abierto un nuevo mundo profesional y estoy deseando aprender cosas nuevas.\n\nAparte de la tecnología, mis pasiones incluyen el deporte, la naturaleza, y en especial las montañas. Me considero una persona entusiasta, positiva, que se encuentra cómoda trabajando en equipo. Gracias a varios viajes que he organizado en grupo por la montaña, he conseguido desarrollar mucha experiencia ante situaciones difíciles superándolas de la mejor manera e involucrando a cada compañero de viaje.\n\n",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/dd6511a0-928a-41b7-83e8-bca7cc3e0272_linkedin-photo-11432.linkedin-photo-11432",
+        "alt": "24/05/02/dd6511a0-928a-41b7-83e8-bca7cc3e0272_linkedin-photo-11432.linkedin-photo-11432"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jorge-cisneros-gavin"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/cisnerosjj/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "IDEOS IT Solutions",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/f318817a-321f-428b-9299-fd0729d54abc_linkedin-photo-11432.linkedin-photo-11432",
+            "alt": "24/05/02/f318817a-321f-428b-9299-fd0729d54abc_linkedin-photo-11432.linkedin-photo-11432"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones para el Comercio Internacional con Angular, PHP y MySQL.\nGestión de equipo, desarrollo y planificación de nuevas funcionalidades.\nOptimización de la User Experience y User interface, UX/UI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Deloitte",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/8e3cead8-8cad-4d35-a2d9-bd80e1d64dfd_linkedin-photo-11432.linkedin-photo-11432",
+            "alt": "24/05/02/8e3cead8-8cad-4d35-a2d9-bd80e1d64dfd_linkedin-photo-11432.linkedin-photo-11432"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de front-end",
+            "startDate": "2021-06-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "- Desarrollador Front-end.\n- Mantenimiento DevOps, aws, Jenkins, SQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Full Stack",
+            "startDate": "2021-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollador web para la digitalización de tu negocio a través de las últimas tecnologías adquiridas durante el boot-camp de full stack developer. Tras la pandemia, la mejor manera de hacer llegar a tu negocio a clientes potenciales es por medios digitales que permitan acceder a tus servicios desde cualquier parte. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Teleperformance",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/1aa39b76-25c8-4d42-982c-ddd05fbd39fe_linkedin-photo-11432.linkedin-photo-11432",
+            "alt": "24/05/02/1aa39b76-25c8-4d42-982c-ddd05fbd39fe_linkedin-photo-11432.linkedin-photo-11432"
+          }
+        },
+        "roles": [
+          {
+            "name": "Telemarketing",
+            "startDate": "2020-05-01",
+            "finishDate": "2020-12-31",
+            "challenges": [
+              {
+                "description": "- Telemarketing de productos energéticos.\n- Habilidades comunicativas, adaptabilidad al perfil del cliente.\n- Estudio del mercado energético y asesoramiento a clientes potenciales.\n- Elaboración de plantillas al personal para mejorar la productividad de las llamadas agendadas.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Blue Hole SL"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar administrativo de ventas",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-03-31",
+            "challenges": [
+              {
+                "description": "- Control de stocks nuevas adquisiciones.\n- Elaboración en base de datos de compras con Navision.\n- Tablas dinámicas en excel con información de las compras.\n- Nexo de unión entre departamento financiero y de compras, agilización de procesos.\n- Apoyo departamento financiero control de documentos de exportación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Saba",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/53e0f37d-2d88-47a5-8422-11860e4717c8_linkedin-photo-11432.linkedin-photo-11432",
+            "alt": "24/05/02/53e0f37d-2d88-47a5-8422-11860e4717c8_linkedin-photo-11432.linkedin-photo-11432"
+          }
+        },
+        "roles": [
+          {
+            "name": "Auxiliar administrativo comercial",
+            "startDate": "2018-07-01",
+            "finishDate": "2018-12-31",
+            "challenges": [
+              {
+                "description": "- Elaboración de tablas dinámicas, agilización proceso de control de bases de datos.\n- Optimización de la facturación en áreas menos desarrolladas.\n- Organización en equipo, viajes de empresa, mejora en la comunicación entre departamentos de facturación de las sedes Madrid y Barcelona.\n- Control de facturación de grandes cuentas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Blue Hole"
+        },
+        "roles": [
+          {
+            "name": "Administrativo financiero",
+            "startDate": "2016-04-01",
+            "finishDate": "2016-07-31",
+            "challenges": [
+              {
+                "description": "- Administración y control de toda la documentación corporativa.\n- Optimización de herramientas comunicativas y elaboración de plantillas de control de entradas de mercancías.\n- Seguimiento de clientes. "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Full Stack Developer, Informática",
+        "startDate": "2020-11-01",
+        "institution": {
+          "name": "Ironhack",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/8e9e0bdb-6928-4e1e-bc06-c00b2a4ffc93_linkedin-photo-11432.linkedin-photo-11432",
+            "alt": "24/05/02/8e9e0bdb-6928-4e1e-bc06-c00b2a4ffc93_linkedin-photo-11432.linkedin-photo-11432"
+          }
+        },
+        "finishDate": "2021-05-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher Technician in International Trade, Negocios internacionales/Comercio internacional",
+        "startDate": "2014-01-01",
+        "institution": {
+          "name": "Formación Cámara de Comercio de Madrid",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/02/046f0d2e-099b-49d4-9976-0281edc2f1d5_linkedin-photo-11432.linkedin-photo-11432",
+            "alt": "24/05/02/046f0d2e-099b-49d4-9976-0281edc2f1d5_linkedin-photo-11432.linkedin-photo-11432"
+          }
+        },
+        "finishDate": "2016-01-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/jorge-cisneros-gavin",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/cisnerosjj/",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jorgecisnerosgavin@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Trabajar como desarrollador web con React y de forma remota\n\nLaudus_Dic21_JuniorFrontReact"
+  }
+}
