@@ -1,7 +1,7 @@
 # JorgeCisneros
 About me
 <h1 align="center">Hi 👋, I'm Jorge Cisneros Gavin</h1>
-<h3 align="center">I am currently studying to work as a Full Stack Developer, Full Stack Web Developer (MERN) - React | NodeJS | English C1+ | JavaScript (ES6) | TypeScript | REST APIs | Express | Agile | Laravel. I am a proactive person who loves to learn new things and keep improving my skills.</h3>
+<h3 align="center">I am a Full Stack Web Developer (MERN) - React | NodeJS | English C1+ | JavaScript (ES6) | TypeScript | REST APIs | Express | Agile | Laravel. I am a proactive person who loves to learn new things and keep improving my skills.</h3>
 
 - 🌱 Hard skills **JavaScript, React, Node, PHP.**
 
